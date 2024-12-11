@@ -1,0 +1,25 @@
+.shiftTitle{
+  color: #bbb;
+  margin-top: 42px;
+}
+
+.card{
+  padding: 16px 52px;
+  background-color: #325176;
+  color: #fff;
+  border-radius: 16px;
+  
+}
+
+.date{
+  color: #ccc;
+  font-weight: 500;
+  font-size: 1rem;
+}
+
+.time{
+  color: #fff;
+  font-weight: 700;
+  font-size: 1.5rem;
+  width: fit-content;
+}

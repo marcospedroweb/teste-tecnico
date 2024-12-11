@@ -1,0 +1,18 @@
+.divInput{
+  width: 370px;
+}
+
+.bigBtn{
+  background-color: #FE8A00;
+  border-radius: 4px;
+  width: 100%;
+  padding: 12px 0;
+  font-size: 1rem;
+  font-weight: bold;
+  border: 1px solid #FE8A00;
+  transition: ease-in .3s all;
+}
+
+.bigBtn:hover{
+  background-color: #D67400;
+}

@@ -1,0 +1,49 @@
+.container{
+  width: 100%;
+  background-color: #1F2C3D;
+  border-radius: 16px;
+}
+
+.containerActualShift{
+  padding-bottom: 32px;
+  border-bottom: 1px solid #8294A9;
+}
+
+.btnStart{
+  background-color: #FE8A00;
+  border-radius: 4px;
+  padding: 12px 105px;
+  font-size: 1rem;
+  font-weight: bold;
+  border: 1px solid #FE8A00;
+  transition: ease-in .3s all;
+}
+.btnStart:hover{
+  background-color: #D67400;
+}
+
+.btnEnd{
+  background-color: transparent;
+  border: 3px solid #D65555;
+  font-size: 1rem;
+  font-weight: 700;
+  padding: 12px 24px;
+  color: #D65555;
+  border-radius: 16px;
+  transition: ease-in .15s all;
+}
+.btnEnd:hover{
+  background-color: #D65555;
+  border: 3px solid #D65555;
+  font-size: 1rem;
+  font-weight: 700;
+  padding: 12px 24px;
+  color: #fff;
+  border-radius: 16px;
+}
+
+.shiftTitle{
+  color: #BBBBBB;
+  font-weight: 700;
+  margin-top: 42px;
+}
